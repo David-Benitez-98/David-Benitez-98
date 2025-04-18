@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm David Benitez</h1>
+<h1 align="center">Hola 👋, soy David Benitez</h1>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 Actualmente estoy aprendiendo Desarrollo Web y otros lenguajes de programación.
 
-- 📫 How to reach me **davidrojasbeni98@gmail.com**
+- 📫 Cómo contactarme: **davidrojasbeni98@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- La comida y la música🎵 son las razones para vivir.
 
 <br>
 
