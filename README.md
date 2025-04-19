@@ -46,4 +46,7 @@ de seguir aprendiendo.
 <table align="left">
 <tr border="none">
 <td width="60%" align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=David-Benitez-98&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+
 
