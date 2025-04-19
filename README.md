@@ -47,6 +47,20 @@ de seguir aprendiendo.
 <tr border="none">
 <td width="60%" align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=David-Benitez-98&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+<!-- Estadísticas de GitHub (Streak) -->
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="David streak" src="https://github-readme-streak-stats.herokuapp.com/?user=David-Benitez-98&theme=dark&hide_border=false" /> 
+</td>
+<td width="40%" align="center">
+<!-- Lenguajes más usados -->
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=David-Benitez-98&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+<!-- Trofeos de GitHub -->
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=David-Benitez-98&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
 
 
