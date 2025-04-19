@@ -1,12 +1,12 @@
 <h1 align="center">Hola 👋  soy David Benitez ✨ </h1> 
 <p align="left">
-<a href="https://www.linkedin.com](https://www.linkedin.com/in/david-benitez-b50239235" target="_blank">
+<a href="https://www.linkedin.com/in/david-benitez-b50239235" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/>
 </a>
 <a href="https://www.instagram.com/_d_benitez_/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev" />
 </a>
-<a href="davidrojasbeni98@gmail.com" target="_blank">
+<a href="davidrojasbeni98@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
 </a>
 
