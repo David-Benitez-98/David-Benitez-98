@@ -6,9 +6,7 @@
 <a href="https://www.instagram.com/_d_benitez_/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="unsimpledev" />
 </a>
-<a href="davidrojasbeni98@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
-</a>
+<a href = "davidrojasbeni98@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 
   </p>
 <br>
